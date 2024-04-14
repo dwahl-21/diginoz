@@ -1,0 +1,6 @@
+Include/
+Lib/
+root/*
+Scripts/
+*.db
+pyvenv.cfg
